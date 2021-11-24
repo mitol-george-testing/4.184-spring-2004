@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Fine Arts",
+      "Art History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5cf93f98-5f34-b91c-e2c3-e6b5c1371dc5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Architectural Design Workshop: Collage - Method and Form",
+  "course_description": "This class investigates the theory, method, and form of collage. It studies not only the historical precedents for collage and their physical attributes, but the psychology and process that plays a part in the making of them. The class was broken into three parts, changing scales and methods each time, to introduce and study the rigor by which decisions were made in relation to the collage. The class was less about the making of art than the study of the processes by which art is made.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.184",
+  "learning_resource_types": [
+    "Image Gallery"
+  ],
+  "title": "Course Metadata"
+}
